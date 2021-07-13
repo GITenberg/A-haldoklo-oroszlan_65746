@@ -1,0 +1,20 @@
+_repo: A-haldoklo-oroszlan_65746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bánffy, Miklós
+    gutenberg_agent_id: '53484'
+    url: http://www.gutenberg.org/2009/agents/53484
+description: ''
+gutenberg_issued: '2021-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65746'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A haldokló oroszlán
+url: http://www.gutenberg.org/ebooks/65746

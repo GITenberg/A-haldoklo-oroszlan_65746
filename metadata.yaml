@@ -1,11 +1,16 @@
 _repo: A-haldoklo-oroszlan_65746
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bánffy, Miklós
     gutenberg_agent_id: '53484'
     url: http://www.gutenberg.org/2009/agents/53484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65746#A-haldoklo-oroszlan
 gutenberg_issued: '2021-07-02'
 gutenberg_type: Text
 identifiers:
